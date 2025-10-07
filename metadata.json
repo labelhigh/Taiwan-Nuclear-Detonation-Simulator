@@ -1,0 +1,5 @@
+{
+  "name": "Taiwan Nuclear Detonation Simulator",
+  "description": "An interactive simulator that visualizes the catastrophic consequences of a nuclear weapon detonation in Taiwan through a cinematic, data-driven animated sequence, showcasing the entire process from missile impact to long-term fallout.",
+  "requestFramePermissions": []
+}
